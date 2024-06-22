@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo Application
 
 Given an `app.js` file and database file `todoApplication.db` with a table `todo`.
@@ -446,3 +447,7 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# Coding-Assignment-1
+CODING PRACTICE-1 [TODO APPLICATION]
+>>>>>>> 380db20070e462d076941214771f779c6f0c183c
